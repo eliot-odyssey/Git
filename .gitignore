@@ -1,2 +1,3 @@
 *.url
 *.md
+.DS_Store
